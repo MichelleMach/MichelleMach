@@ -11,26 +11,26 @@
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=MichelleMach&area_color=f61e4e&bg_color=0d1117&line=f61e4e&point=e4e87b&theme=github&hide_border=true&area=true)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MichelleMach&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MichelleMach&theme=monokai&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+                                                                                                                                            
 <!-- 
 ## Ferramentas Utilizadas
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="Miche-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Miche-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Miche-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Miche-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
 </div>
  -->
+ 
+ <br/>
 
 <div align="center"> 
   <a href="https://api.whatsapp.com/send?phone=5551994129797" target="_blank"> <img	src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:machado.profile@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/perfil-michelle-machado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-
 <!--  ![Snake animation](https://github.com/MichelleMach//blob/output/github-contribution-grid-snake.svg) -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f61e4e&height=120&section=footer"/>
