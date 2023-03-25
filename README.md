@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f61e4e&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f61e4e&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Michelle+Machado;I'm+24+years+old;I+from+Brazil,+RS;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f61e4e&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Michelle+Machado;I+m'+a+Full+Stack+Developer;I+from+Brazil,+RS;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/MichelleMach">
@@ -8,7 +8,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleMach&layout=compact&hide_border=true&title_color=f61e4e&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=MichelleMach&area_color=f61e4e&bg_color=0d1117&line=f61e4e&point=e4e87b&theme=github&hide_border=true&area=true)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MichelleMach&bg_color=0d1117&color=c9d1d9&line=f61e4e&point=d6d6d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MichelleMach&theme=monokai&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
